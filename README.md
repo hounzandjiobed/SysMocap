@@ -28,11 +28,11 @@ English Version | <a href="./README.zh-cn.md">中文版本</a>
 
 A cross-platform real-time video-driven motion capture and 3D virtual character rendering system for VTuber/Live/AR/VR.
 
-Available for Windows, macOS (including Apple Silicon & Intel) & Linux (source code only)
+Available for Windows, macOS , Android (including Apple Silicon & Intel) & Linux (source code only)
 
 [Download Now](https://github.com/xianfei/SysMocap/releases) 
 
-(This is a multi-language software, including English and Chinese. )
+(This is a multi-language software, including English and Chinese,and french. )
 
 ### Highlights
 
@@ -203,3 +203,4 @@ You can see all `dependencies` in [package.json](https://github.com/xianfei/SysM
   pages={429-434},
   doi={10.1109/ISMAR-Adjunct57072.2022.00092}}
 ```
+Avaliable in Android ( iOS)
